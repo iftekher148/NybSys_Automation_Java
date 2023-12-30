@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 30 14:50:19 BDT 2023","Sat Dec 30 14:50:34 BDT 2023","14665","All Test Suite","F:/Java Automation/NybSys_Automation_Java","testcases.TestAddUser","testcases.TestAddUser","testAddUser","testAddUser",""
+"passed","Sat Dec 30 14:50:04 BDT 2023","Sat Dec 30 14:50:19 BDT 2023","14226","All Test Suite","F:/Java Automation/NybSys_Automation_Java","testcases.TestLoginPage","testcases.TestLoginPage","testLoginPage","testLoginPage",""
+"passed","Sat Dec 30 14:50:34 BDT 2023","Sat Dec 30 14:50:42 BDT 2023","8849","All Test Suite","F:/Java Automation/NybSys_Automation_Java","testcases.TestRemoveUser","testcases.TestRemoveUser","testRemoveUserFunction","testRemoveUserFunction",""
+"passed","Sat Dec 30 14:50:42 BDT 2023","Sat Dec 30 14:50:50 BDT 2023","7458","All Test Suite","F:/Java Automation/NybSys_Automation_Java","testcases.TestLogOut","testcases.TestLogOut","testLogout","testLogout",""
